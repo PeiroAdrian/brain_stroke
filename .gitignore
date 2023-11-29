@@ -1,0 +1,7 @@
+#ignorar archivos brainstroke.csv
+.brainstroke.csv
+#ignorar untitled.ows
+.untitled.ows
+#ignorar archivos health-dataset-stroke-data.csv
+.health-dataset-stroke-data.csv
+
